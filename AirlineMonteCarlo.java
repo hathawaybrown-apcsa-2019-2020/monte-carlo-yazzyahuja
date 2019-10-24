@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class AirlineMonteCarlo here.
+ * Finds the average number of times a flight is overbooked and the average number of seats filled in a given flight
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Yazzy Ahuja)
+ * @version (APCS-A 10-24-2019)
  */
 public class AirlineMonteCarlo
 {
